@@ -1,0 +1,4 @@
+"StudentID,StudentName,StudentGender,StudentEmail,StudentAddress"
+"10001,'simon','M','simon.student@gmail.com','Illinois'"
+"10002,'williams','M','williams.henry@gmail.com','canberra'"
+"10003,'Rose','F','rose.mary@gmail.com','Texas'"
